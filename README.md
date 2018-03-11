@@ -1,7 +1,7 @@
 # Keep-It-Secure-File-Encryption
 Keep It Secure Is Private Data Encryption &amp; Decryption Tool And Fully Open Source C# Project.
 
-> Hash : 128 Byte
+> Hash : 128 Byte | 
 > File Type : .ae
 
 ## Preview 
