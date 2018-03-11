@@ -1,0 +1,28 @@
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\bin\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\bin\Debug\Keep It Secure v1.5.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\bin\Debug\Keep It Secure v1.5.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\bin\Debug\Keep It Secure v1.5.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\AkalankaUKEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\AkalankaUKEncrypt.Form1.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\AkalankaUKEncrypt.Properties.Resources.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\AkalankaUKEncrypt.csproj.GenerateResource.Cache
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\Keep It Secure v1.5.TrustInfo.xml
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\Keep It Secure v1.5.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\Keep It Secure v1.5.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Debug\Keep It Secure v1.5.pdb
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.exe
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt\obj\Debug\Keep It Secure v1.5.pdb
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.exe
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.pdb
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\bin\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\bin\Debug\Keep It Secure v1.5.application
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\bin\Debug\Keep It Secure v1.5.exe
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\bin\Debug\Keep It Secure v1.5.pdb
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\AkalankaUKEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\AkalankaUKEncrypt.Form1.resources
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\AkalankaUKEncrypt.Properties.Resources.resources
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\AkalankaUKEncrypt.csproj.GenerateResource.Cache
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.TrustInfo.xml
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.exe.manifest
+C:\Users\Akalanka\Desktop\AkalankaUKEncrypt - Pub\obj\Debug\Keep It Secure v1.5.application

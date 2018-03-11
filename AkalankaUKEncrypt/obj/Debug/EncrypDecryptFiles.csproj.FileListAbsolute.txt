@@ -1,0 +1,65 @@
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\bin\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\bin\Debug\EncrypDecryptFiles.pdb
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\ResolveAssemblyReference.cache
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.Form1.resources
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.Properties.Resources.resources
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C#\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\bin\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\bin\Debug\EncrypDecryptFiles.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.csprojResolveAssemblyReference.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.Form1.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.Properties.Resources.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.csproj.CoreCompileInputs.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncrypDecryptFiles\obj\Debug\EncrypDecryptFiles.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\bin\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\bin\Debug\EncrypDecryptFiles.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.csprojResolveAssemblyReference.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.Form1.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.Properties.Resources.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.csproj.CoreCompileInputs.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\EncryptDecryptFiles\obj\Debug\EncrypDecryptFiles.pdb
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csprojResolveAssemblyReference.cache
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.Form1.resources
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.Properties.Resources.resources
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.TrustInfo.xml
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.application
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\Base\Project\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.application
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe.manifest
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.application
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.pdb
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csprojResolveAssemblyReference.cache
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.Form1.resources
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.Properties.Resources.resources
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.TrustInfo.xml
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe.manifest
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.application
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe
+D:\[My] Programming\C# Projects\Reversed Ransomware\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Debug\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\AkalankaUKEncrypt.Form1.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\AkalankaUKEncrypt.Properties.Resources.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csproj.GenerateResource.Cache
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.TrustInfo.xml
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Debug\EncrypDecryptFiles.csprojResolveAssemblyReference.cache

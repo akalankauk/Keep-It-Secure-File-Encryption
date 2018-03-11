@@ -1,0 +1,15 @@
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Release\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Release\Reversed Ransomeware.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Release\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\bin\Release\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\AkalankaUKEncrypt.Form1.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\AkalankaUKEncrypt.Properties.Resources.resources
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\EncrypDecryptFiles.csproj.GenerateResource.Cache
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\Reversed Ransomeware.TrustInfo.xml
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\Reversed Ransomeware.exe.manifest
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\Reversed Ransomeware.application
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\Reversed Ransomeware.pdb
+C:\Users\Akalanka\Desktop\encryptdecryptfiles\obj\Release\EncrypDecryptFiles.csprojResolveAssemblyReference.cache
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Release\Reversed Ransomeware.exe
+C:\Users\Akalanka\Desktop\encryptdecryptfiles - Copy\obj\Release\Reversed Ransomeware.pdb
